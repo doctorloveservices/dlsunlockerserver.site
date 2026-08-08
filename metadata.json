@@ -1,0 +1,6 @@
+{
+  "name": "DLS Unlocker Server",
+  "description": "Professional GSM & IMEI Unlocking Server Platform for Network Unlocks, FRP Removal, and Reseller API Services",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
